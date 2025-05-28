@@ -1,0 +1,1081 @@
+10-58-53.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+10-58-59.226 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-58-59.730 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-59-00.893 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-59-00.919 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-59-03.003 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-59-04.299 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+11-00-50.019 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+11-00-52.315 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-00-53.531 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+11-02-08.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+13-53-56.956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+13-54-00.405 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+13-54-01.818 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Success Valid
+13-54-02.256 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+13-54-02.266 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+13-54-12.718 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+13-54-12.718 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+13-54-12.720 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+13-54-23.360 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+13-54-23.361 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+13-54-23.363 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+13-54-34.656 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+13-54-34.656 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+13-54-34.658 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+13-54-45.812 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+13-54-45.812 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+15-22-24.196 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\crossbrowsertesting.xml
+
+15-22-29.200 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-22-29.200 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-25-21.664 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+15-25-24.974 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+15-25-26.241 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Success Valid
+15-25-26.646 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+15-25-26.663 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+15-25-37.140 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+15-25-37.140 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+15-25-37.140 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+15-25-48.332 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+15-25-48.332 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+15-25-48.332 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+15-25-59.037 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+15-25-59.043 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+15-25-59.052 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+15-26-10.299 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+15-26-10.299 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+15-45-16.614 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+15-51-01.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+14-27-18.810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\crossbrowsertesting.xml
+
+14-27-23.705 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-27-24.193 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-27-25.303 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-27-25.324 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-27-36.871 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-27-37.511 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-27-38.540 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-27-38.553 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-29-05.521 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\crossbrowsertesting.xml
+
+14-29-11.011 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-29-11.011 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-29-11.011 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-29-12.216 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-31-19.176 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+14-31-22.507 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-31-23.684 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Success Valid
+14-31-24.085 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-31-24.096 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-31-34.501 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+14-31-34.501 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-31-34.517 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-31-45.188 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+14-31-45.188 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-31-45.188 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-31-56.449 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+14-31-56.449 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-31-56.451 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-32-07.617 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+14-32-07.617 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-34-52.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+14-34-54.762 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-34-55.238 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-34-56.200 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-34-56.229 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-34-58.391 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-34-59.496 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+14-35-02.286 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-35-05.300 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Success Valid
+14-35-05.841 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-35-05.844 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-35-16.275 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+14-35-16.275 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-35-16.275 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-35-27.062 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+14-35-27.062 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-35-27.062 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-35-38.191 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+14-35-38.191 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-35-38.197 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginDataDrivenTest starting**
+14-35-49.328 [main] INFO  testCases.TC003_LoginDataDrivenTest - Login Failed Invalid
+14-35-49.328 [main] INFO  testCases.TC003_LoginDataDrivenTest - **TC003_LoginTest completed**
+14-17-10.153 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+14-17-14.564 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-17-15.049 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-17-16.159 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-17-16.194 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-17-18.229 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-17-19.392 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+14-20-07.213 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+14-20-09.696 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-20-10.178 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-20-11.456 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-20-11.478 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-20-13.546 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-20-14.724 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+14-22-25.194 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+14-22-27.512 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-22-27.983 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-22-29.040 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-22-29.063 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-22-31.174 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-42-11.924 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+14-42-14.487 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-42-14.991 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-42-16.127 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-42-16.161 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-42-18.482 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-15-12.463 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+13-15-15.757 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-15-16.254 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-15-17.318 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-15-17.339 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-15-19.475 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-22-14.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+13-22-14.083 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+13-22-14.084 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.084 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.085 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.085 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.085 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.085 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.087 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.089 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.089 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.089 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.089 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.090 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.090 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-14.092 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-14.096 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\OEM\AppData\Local\Temp\testng-eclipse-197615981\testng-customsuite.xml
+
+13-22-14.105 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+13-22-14.929 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@322803db: 61 ms
+13-22-14.936 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7a24eb3: 7 ms
+13-22-14.944 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3adbe50f: 8 ms
+13-22-14.953 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26dcd8c0: 9 ms
+13-22-14.957 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2dbd803f: 4 ms
+13-22-14.957 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3e48e859: 0 ms
+13-22-38.963 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.966 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+13-22-38.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.968 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.974 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+13-22-38.978 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+13-22-38.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.980 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.982 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.989 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.991 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.991 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13-22-38.992 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13-22-38.998 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\OEM\AppData\Local\Temp\testng-eclipse--920818423\testng-customsuite.xml
+
+13-22-39.007 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+13-22-39.767 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6ceb7b5e: 50 ms
+13-22-39.775 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@25d3cfc8: 7 ms
+13-22-39.781 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@49aa766b: 6 ms
+13-22-39.786 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@444548a0: 5 ms
+13-22-39.790 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3e48e859: 4 ms
+13-22-39.790 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@31ddd4a4: 0 ms
+13-22-47.868 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+13-22-51.342 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-22-51.842 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-22-52.891 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-22-52.920 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-22-54.989 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-22-56.156 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+13-43-38.698 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+13-43-41.317 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-43-41.792 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-43-42.894 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-43-42.926 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-43-45.002 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-43-46.177 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+13-53-21.706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+13-53-24.051 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-53-24.535 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-53-25.561 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-53-25.593 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-53-27.657 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-53-28.873 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+13-55-27.678 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+13-55-30.025 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-55-30.520 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-55-31.584 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-55-31.609 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-55-33.701 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-55-34.874 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+13-57-30.051 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+13-57-32.514 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-57-33.017 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-57-34.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-57-34.044 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-57-36.137 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-59-08.914 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+13-59-11.268 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-59-11.754 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-59-12.749 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-59-12.774 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-59-14.851 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-00-18.486 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+14-00-20.926 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-00-21.397 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-00-22.457 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-00-22.480 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-00-24.520 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-18-15.430 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+14-18-18.028 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-18-18.510 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-18-19.604 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-18-19.636 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-18-21.662 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-25-39.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+14-25-42.493 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-25-42.983 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-25-44.091 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-25-44.142 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-25-46.235 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-28-35.642 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+14-28-37.952 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-28-38.429 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-28-39.421 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-28-39.456 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-28-41.429 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+12-55-43.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+12-55-47.034 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+12-55-47.572 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+12-55-48.595 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+12-55-48.621 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+12-55-50.691 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+12-55-51.848 [main] INFO  testCases.TC002_LoginTest - **TC_002 LoginTest completed**
+12-58-55.695 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+12-58-57.993 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+12-58-58.498 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+12-58-59.504 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+12-58-59.535 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+12-59-01.551 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-11-28.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grouping.xml
+
+13-11-30.698 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-11-31.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-11-32.375 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-11-32.395 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-11-34.417 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-11-24.941 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-11-27.954 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-11-28.456 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-11-29.513 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-11-29.533 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-11-31.543 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-11-47.989 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-11-48.627 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-11-49.675 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-11-49.681 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-11-53.977 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-12-25.817 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-12-28.173 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-12-28.637 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-12-29.715 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-12-29.734 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-12-32.069 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-12-48.199 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-12-48.838 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-12-49.929 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-12-49.929 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-12-54.212 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-16-11.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-16-13.731 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-16-14.206 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-16-15.488 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-16-15.506 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-16-17.554 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-16-33.834 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-16-34.487 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-16-35.557 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-16-35.574 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-16-39.868 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-41-23.507 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+10-41-23.679 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-43-21.489 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+10-43-21.673 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-47-25.686 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+10-47-29.946 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-47-30.426 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-47-31.500 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-47-31.530 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-47-33.622 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-47-51.627 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-47-52.268 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-47-53.331 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-47-53.338 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-47-57.968 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-48-25.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+10-48-27.891 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-48-28.410 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-48-29.464 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-48-29.488 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-48-31.650 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-48-47.701 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-48-48.351 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-48-49.448 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-48-49.464 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-48-53.665 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-49-35.495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+10-49-37.858 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-49-38.364 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-49-39.368 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-49-39.396 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-49-41.405 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-49-56.783 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-49-57.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-49-58.613 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-49-58.644 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-50-03.868 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-01-22.956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-01-25.491 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-01-26.040 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-01-27.347 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-01-27.366 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-01-29.461 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-01-46.003 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-01-46.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-01-47.838 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-01-47.867 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-01-52.366 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-02-29.144 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-02-31.700 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-02-32.186 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-02-33.250 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-02-33.276 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-02-35.321 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-02-50.912 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-02-51.719 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-02-52.863 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-02-52.880 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-02-57.449 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-08-20.853 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-08-26.245 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-08-26.902 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-08-28.143 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-08-28.175 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-08-31.794 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-08-49.207 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-08-50.000 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-08-51.203 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-08-51.235 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-08-55.189 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-10-30.148 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-10-35.159 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-10-35.992 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-10-37.336 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-10-37.358 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-10-41.350 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-10-57.899 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-10-58.737 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-10-59.942 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-10-59.980 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-11-03.876 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-14-01.853 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+11-14-02.009 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-14-58.061 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\crossbrowsertesting.xml
+
+11-14-58.248 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-14-58.248 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-14-58.248 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-16-03.296 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\crossbrowsertesting.xml
+
+11-16-03.425 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-16-03.463 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-16-03.464 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-16-59.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-17-00.068 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-19-40.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+11-19-40.469 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-20-30.952 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-20-33.527 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-20-34.097 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-20-35.236 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-20-35.257 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-20-37.384 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-20-54.506 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-20-55.171 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-20-56.625 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-20-56.640 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-21-00.811 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-21-51.413 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+11-21-54.089 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-21-54.622 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-21-55.705 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-21-55.729 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-21-58.205 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-24-28.912 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+11-24-31.661 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-24-32.144 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-24-33.310 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-24-33.330 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-24-35.437 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-26-13.912 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+11-26-16.345 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-26-16.857 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-26-17.907 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-26-17.930 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-26-20.020 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-21-29.934 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+13-21-32.624 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-21-33.153 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-21-34.299 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-21-34.336 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-21-36.456 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-22-43.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-22-46.272 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-22-48.584 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-22-48.620 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+13-22-53.232 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-22-55.926 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-22-55.951 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+13-23-56.648 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-23-59.689 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-24-01.833 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-24-01.863 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+13-24-05.806 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-24-08.610 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-24-08.634 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+13-26-27.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+13-27-21.591 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+13-30-03.016 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+13-32-56.860 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-33-00.352 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-33-02.807 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-33-02.844 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+13-33-07.203 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-33-10.026 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-33-10.052 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+13-34-06.961 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-34-09.402 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-34-09.952 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-34-11.064 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-34-11.095 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-34-13.266 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-34-28.971 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-34-29.617 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-34-30.678 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-34-30.695 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-34-35.052 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-35-38.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-36-59.969 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-43-44.671 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-43-47.501 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-43-49.425 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-43-49.452 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+13-43-53.456 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-43-56.225 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-43-56.251 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+13-50-06.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-50-11.298 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-50-11.997 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-50-13.372 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-50-13.395 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-50-16.413 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-50-23.322 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-50-24.008 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-50-25.234 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-50-25.260 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-50-29.462 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-03-54.958 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-03-58.659 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-04-00.818 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-04-00.851 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-04-05.586 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-04-08.408 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-04-08.437 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-12-15.445 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+14-13-59.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+14-14-54.871 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+14-18-02.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+14-18-04.700 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-18-05.225 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-18-06.289 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-18-06.313 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-18-08.319 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-19-18.855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-19-21.245 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-19-21.739 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-19-22.847 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-19-22.869 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-19-24.833 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-19-40.535 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-19-41.182 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-19-42.242 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-19-42.254 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-19-46.728 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-22-56.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-14-02.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-14-06.733 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-14-09.022 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-14-09.056 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-14-14.085 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-14-16.895 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-14-16.917 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-28-35.378 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-28-55.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-28-57.008 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-28-57.519 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-28-57.541 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-29-00.238 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-29-02.166 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-29-02.183 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-29-27.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-29-28.495 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-29-29.019 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-29-29.038 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-29-31.042 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-29-32.780 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-29-32.798 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-30-56.074 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+14-31-57.779 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-31-59.149 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-31-59.744 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-31-59.764 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-32-02.387 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-32-04.383 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-32-04.402 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-34-38.590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-34-39.881 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-34-40.402 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-34-40.422 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-34-42.886 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-34-44.706 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-34-44.722 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-35-05.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-35-06.095 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-35-06.602 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-35-06.622 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-35-08.801 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-35-10.548 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-35-10.569 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-37-44.742 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-37-46.165 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-37-46.772 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-37-46.794 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-37-49.907 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-37-52.131 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-37-52.192 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-18-41.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-18-42.573 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-18-43.120 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-18-43.141 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-18-45.889 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-18-47.676 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-18-47.694 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-19-11.318 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-19-12.075 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-19-12.561 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-19-12.581 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-19-14.650 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-19-16.381 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-19-16.407 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-25-07.185 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-25-07.977 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-25-08.565 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-25-08.588 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-25-10.696 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-25-14.421 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-25-14.442 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-26-23.921 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-26-25.134 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-26-25.730 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-26-25.751 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-26-28.260 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-26-30.110 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-26-30.126 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-30-27.634 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-30-28.904 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-30-29.419 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-30-29.439 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-30-32.119 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-30-34.089 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-30-34.105 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-36-57.597 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-36-58.874 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-36-59.375 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-36-59.395 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-37-01.908 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-37-03.607 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-37-03.633 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-42-10.481 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-42-13.738 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-42-16.288 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-42-16.312 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-42-17.544 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-43-51.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-43-52.001 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-43-52.556 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-43-52.576 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-43-54.617 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-43-56.389 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-43-56.412 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-44-21.569 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-44-22.341 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-44-22.885 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-44-22.904 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-44-25.012 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-44-26.775 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-44-26.793 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-47-43.170 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-47-45.976 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-47-46.462 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-47-48.001 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-47-48.025 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-47-50.038 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-48-06.213 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-48-06.900 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-48-08.045 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-48-08.060 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-48-12.280 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-49-37.601 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+14-49-38.879 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-49-39.372 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-49-39.390 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+14-49-41.913 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-49-43.619 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-49-43.640 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-02-50.479 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+15-02-51.884 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-02-52.438 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-02-52.460 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-02-55.126 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-02-56.859 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-02-56.876 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-04-16.644 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+15-04-17.921 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-04-18.428 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-04-18.449 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-04-20.994 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-04-22.799 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-04-22.821 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-04-37.336 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+15-04-38.119 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-04-38.601 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-04-38.622 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-04-40.782 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-04-42.587 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-04-42.603 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-08-38.837 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+15-08-41.584 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-08-42.086 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+15-08-43.224 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+15-08-43.247 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+15-08-45.232 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-09-00.557 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-09-01.200 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+15-09-03.117 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+15-09-03.133 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+15-09-07.414 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-14-53.283 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+15-14-54.540 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-14-55.087 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-14-55.106 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-14-57.592 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-14-59.319 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-14-59.339 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-23-33.792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+15-23-34.573 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-23-35.115 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-23-35.135 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+15-23-37.256 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+15-23-39.057 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+15-23-39.076 [main] ERROR testCases.TC002_LoginTest - Login Failed 
+11-22-57.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-23-00.094 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-23-00.629 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-23-01.896 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-23-01.939 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-23-03.621 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-23-19.020 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-23-19.686 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-23-20.832 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-23-20.852 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-23-24.499 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-24-46.370 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-24-48.425 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-24-48.949 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-24-49.416 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-24-50.134 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-24-51.813 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-25-07.263 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-25-07.961 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-25-09.318 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-25-09.341 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-25-13.094 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-26-40.075 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-26-42.103 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-26-42.634 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-26-43.074 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-26-43.791 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-26-45.420 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-27-00.474 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-27-01.161 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-27-02.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-27-02.352 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-27-05.818 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-28-40.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+11-28-42.627 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-28-43.175 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-28-43.667 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-28-44.483 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-28-46.193 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+11-29-01.097 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+11-29-01.771 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+11-29-02.887 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+11-29-02.906 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+11-29-06.503 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-21-44.356 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-21-47.064 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-21-47.638 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-21-49.241 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-21-49.274 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-21-51.040 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-22-06.099 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-22-06.921 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-22-08.128 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-22-08.154 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-22-11.772 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-30-19.517 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+13-31-28.172 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-31-30.972 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-31-31.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-31-32.813 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-31-32.857 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-31-34.518 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-31-50.222 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-31-51.070 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-31-52.256 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-31-52.279 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-31-55.893 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-33-17.716 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+13-33-20.942 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-33-21.456 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-33-22.582 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-33-22.606 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-33-24.657 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-55-47.556 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+13-55-50.390 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-55-50.933 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-55-52.555 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-55-52.598 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-55-54.286 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+13-56-09.905 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+13-56-10.583 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+13-56-12.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+13-56-12.233 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+13-56-15.863 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-22-47.267 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\master.xml
+
+14-22-49.969 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-22-50.476 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-22-51.558 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-22-51.583 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-22-53.650 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-41-54.401 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-41-54.956 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-41-56.103 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-41-56.135 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-41-58.269 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-45-36.875 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-45-37.404 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-45-37.860 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-45-38.656 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-45-40.290 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-45-55.430 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-45-56.136 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-45-57.353 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-45-57.386 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-46-01.041 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+14-48-10.927 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-48-11.430 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-48-12.544 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-48-12.568 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-33-48.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\JavaWorkspace\OpencartV121\grid-docker.xml
+
+10-33-51.754 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-33-52.300 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-33-53.561 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-33-53.600 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-33-55.311 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-34-15.149 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-34-16.009 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-34-17.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-34-17.231 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-34-21.200 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-35-49.622 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-35-50.156 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-35-51.294 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-35-51.331 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-35-52.967 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-36-08.315 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-36-08.973 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-36-10.124 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-36-10.150 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-36-13.701 [main] INFO  testCases.TC002_LoginTest - **Starting TC_002 LoginTest**
+10-41-12.232 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-41-12.732 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-41-13.867 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-41-13.895 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-17-53.871 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-17-54.521 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-17-55.598 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-17-55.632 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+14-18-58.223 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+14-18-58.798 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+14-18-59.859 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+14-18-59.881 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+09-46-50.252 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+09-46-50.765 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+09-46-52.180 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+09-46-52.216 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
+10-07-30.026 [main] INFO  testCases.TC001_AccountRegistrationTest - **Start TC001_AccountRegistrationTest***
+10-07-30.558 [main] INFO  testCases.TC001_AccountRegistrationTest - Creating new registration
+10-07-31.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Checking the account creation confirmation message
+10-07-31.705 [main] INFO  testCases.TC001_AccountRegistrationTest - **Completed TC001_AccountRegistrationTest***
